@@ -1,0 +1,16 @@
+
+1.       Implementar o algoritmo Backpropagation em qualquer linguagem . (equipe com 2 alunos)
+
+2.       Apresentar gráfico de evolução do erro ao longo das iterações/épocas
+
+3.       Apresentar gráfico no final de treinamento com saída desejada versus saída da rede neural.
+
+4.       Algoritmo deve possibilitar variar número de neurônios na camada escondida ( usar apenas uma camada escondida)
+
+5.        Possibilidade de verificar valores dos pesos sinápticos após finalização do treinamento.
+
+6.       Treinar a rede neural com qualquer banco de dados
+
+7.       No dia da entrega do trabalho a equipe deverá apresentar o algoritmo funcionando sendo que algumas perguntas à respeito do algoritmo serão direcionadas aos membros da equipe. Todos os membros da equipe deverão estar presentes no dia da entrega. Para avaliação será considerado desenvolvimento do algoritmo e apresentação do mesmo ( parte oral).
+
+8.       Deverá ser entregue um relatório com algoritmo e resultados de treinamento.
